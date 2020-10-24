@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\PrimeiraCalculadora\PrimeiraCalculadora\bin\Debug\netstandard2.0\PrimeiraCalculadora.deps.json
+C:\Users\gabri\source\repos\PrimeiraCalculadora\PrimeiraCalculadora\bin\Debug\netstandard2.0\PrimeiraCalculadora.dll
+C:\Users\gabri\source\repos\PrimeiraCalculadora\PrimeiraCalculadora\bin\Debug\netstandard2.0\ref\PrimeiraCalculadora.dll
+C:\Users\gabri\source\repos\PrimeiraCalculadora\PrimeiraCalculadora\bin\Debug\netstandard2.0\PrimeiraCalculadora.pdb
+C:\Users\gabri\source\repos\PrimeiraCalculadora\PrimeiraCalculadora\obj\Debug\netstandard2.0\PrimeiraCalculadora.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\PrimeiraCalculadora\PrimeiraCalculadora\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\gabri\source\repos\PrimeiraCalculadora\PrimeiraCalculadora\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\gabri\source\repos\PrimeiraCalculadora\PrimeiraCalculadora\obj\Debug\netstandard2.0\PrimeiraCalculadora.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\PrimeiraCalculadora\PrimeiraCalculadora\obj\Debug\netstandard2.0\PrimeiraCalculadora.AssemblyInfo.cs
+C:\Users\gabri\source\repos\PrimeiraCalculadora\PrimeiraCalculadora\obj\Debug\netstandard2.0\PrimeiraCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\PrimeiraCalculadora\PrimeiraCalculadora\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\gabri\source\repos\PrimeiraCalculadora\PrimeiraCalculadora\obj\Debug\netstandard2.0\PrimeiraCalculadora.dll
+C:\Users\gabri\source\repos\PrimeiraCalculadora\PrimeiraCalculadora\obj\Debug\netstandard2.0\ref\PrimeiraCalculadora.dll
+C:\Users\gabri\source\repos\PrimeiraCalculadora\PrimeiraCalculadora\obj\Debug\netstandard2.0\PrimeiraCalculadora.pdb
